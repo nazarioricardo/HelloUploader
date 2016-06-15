@@ -1,0 +1,674 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8CB0779E1D0BCE9E00AE24F8 /* Gabo111.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077881D0BCE9E00AE24F8 /* Gabo111.mp3 */; };
+		8CB0779F1D0BCE9E00AE24F8 /* Gabo112.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077891D0BCE9E00AE24F8 /* Gabo112.mp3 */; };
+		8CB077A01D0BCE9E00AE24F8 /* Gabo113.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778A1D0BCE9E00AE24F8 /* Gabo113.mp3 */; };
+		8CB077A11D0BCE9E00AE24F8 /* Gabo114.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778B1D0BCE9E00AE24F8 /* Gabo114.mp3 */; };
+		8CB077A21D0BCE9E00AE24F8 /* Gabo115.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778C1D0BCE9E00AE24F8 /* Gabo115.mp3 */; };
+		8CB077A31D0BCE9E00AE24F8 /* Gabo116.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778D1D0BCE9E00AE24F8 /* Gabo116.mp3 */; };
+		8CB077A41D0BCE9E00AE24F8 /* Gabo117.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778E1D0BCE9E00AE24F8 /* Gabo117.mp3 */; };
+		8CB077A51D0BCE9E00AE24F8 /* Gabo118.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0778F1D0BCE9E00AE24F8 /* Gabo118.mp3 */; };
+		8CB077A61D0BCE9E00AE24F8 /* Gabo119.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077901D0BCE9E00AE24F8 /* Gabo119.mp3 */; };
+		8CB077A71D0BCE9E00AE24F8 /* Gabo1110.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077911D0BCE9E00AE24F8 /* Gabo1110.mp3 */; };
+		8CB077A81D0BCE9E00AE24F8 /* Gabo1111.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077921D0BCE9E00AE24F8 /* Gabo1111.mp3 */; };
+		8CB077A91D0BCE9E00AE24F8 /* Gabo1112.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077931D0BCE9E00AE24F8 /* Gabo1112.mp3 */; };
+		8CB077AA1D0BCE9E00AE24F8 /* Gabo1113.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077941D0BCE9E00AE24F8 /* Gabo1113.mp3 */; };
+		8CB077AB1D0BCE9E00AE24F8 /* Gabo1114.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077951D0BCE9E00AE24F8 /* Gabo1114.mp3 */; };
+		8CB077AC1D0BCE9E00AE24F8 /* Gabo1115.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077961D0BCE9E00AE24F8 /* Gabo1115.mp3 */; };
+		8CB077AD1D0BCE9E00AE24F8 /* Gabo1116.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077971D0BCE9E00AE24F8 /* Gabo1116.mp3 */; };
+		8CB077AE1D0BCE9E00AE24F8 /* Gabo1117.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077981D0BCE9E00AE24F8 /* Gabo1117.mp3 */; };
+		8CB077AF1D0BCE9E00AE24F8 /* Gabo1118.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB077991D0BCE9E00AE24F8 /* Gabo1118.mp3 */; };
+		8CB077B01D0BCE9E00AE24F8 /* Gabo1119.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0779A1D0BCE9E00AE24F8 /* Gabo1119.mp3 */; };
+		8CB077B11D0BCE9E00AE24F8 /* Gabo1120.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0779B1D0BCE9E00AE24F8 /* Gabo1120.mp3 */; };
+		8CB077B21D0BCE9E00AE24F8 /* Gabo1121.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0779C1D0BCE9E00AE24F8 /* Gabo1121.mp3 */; };
+		8CB077B31D0BCE9E00AE24F8 /* Gabo1122.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8CB0779D1D0BCE9E00AE24F8 /* Gabo1122.mp3 */; };
+		D32D0B8D1C92606A0072CABC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D32D0B8C1C92606A0072CABC /* main.m */; };
+		D32D0B901C92606A0072CABC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D32D0B8F1C92606A0072CABC /* AppDelegate.m */; };
+		D32D0B931C92606A0072CABC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D32D0B921C92606A0072CABC /* ViewController.m */; };
+		D32D0B961C92606A0072CABC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D0B941C92606A0072CABC /* Main.storyboard */; };
+		D32D0B981C92606A0072CABC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32D0B971C92606A0072CABC /* Assets.xcassets */; };
+		D32D0B9B1C92606A0072CABC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D32D0B991C92606A0072CABC /* LaunchScreen.storyboard */; };
+		D32D0BA61C92606A0072CABC /* HelloUploaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D32D0BA51C92606A0072CABC /* HelloUploaderTests.m */; };
+		D32D0BB11C92606A0072CABC /* HelloUploaderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D32D0BB01C92606A0072CABC /* HelloUploaderUITests.m */; };
+		D32D0BC01C92608D0072CABC /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D32D0BBF1C92608D0072CABC /* CloudKit.framework */; };
+		D3358EE81C986D4E00F4A03E /* Uploader.m in Sources */ = {isa = PBXBuildFile; fileRef = D3358EE71C986D4E00F4A03E /* Uploader.m */; };
+		D3F7154A1CBF11E4009CC642 /* UploadAudioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3F715491CBF11E4009CC642 /* UploadAudioViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D32D0BA21C92606A0072CABC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D32D0B801C92606A0072CABC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D32D0B871C92606A0072CABC;
+			remoteInfo = HelloUploader;
+		};
+		D32D0BAD1C92606A0072CABC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D32D0B801C92606A0072CABC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D32D0B871C92606A0072CABC;
+			remoteInfo = HelloUploader;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8CB077881D0BCE9E00AE24F8 /* Gabo111.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo111.mp3; path = ../../../../PickUpLines/Gabo1/Gabo111.mp3; sourceTree = "<group>"; };
+		8CB077891D0BCE9E00AE24F8 /* Gabo112.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo112.mp3; path = ../../../../PickUpLines/Gabo1/Gabo112.mp3; sourceTree = "<group>"; };
+		8CB0778A1D0BCE9E00AE24F8 /* Gabo113.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo113.mp3; path = ../../../../PickUpLines/Gabo1/Gabo113.mp3; sourceTree = "<group>"; };
+		8CB0778B1D0BCE9E00AE24F8 /* Gabo114.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo114.mp3; path = ../../../../PickUpLines/Gabo1/Gabo114.mp3; sourceTree = "<group>"; };
+		8CB0778C1D0BCE9E00AE24F8 /* Gabo115.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo115.mp3; path = ../../../../PickUpLines/Gabo1/Gabo115.mp3; sourceTree = "<group>"; };
+		8CB0778D1D0BCE9E00AE24F8 /* Gabo116.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo116.mp3; path = ../../../../PickUpLines/Gabo1/Gabo116.mp3; sourceTree = "<group>"; };
+		8CB0778E1D0BCE9E00AE24F8 /* Gabo117.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo117.mp3; path = ../../../../PickUpLines/Gabo1/Gabo117.mp3; sourceTree = "<group>"; };
+		8CB0778F1D0BCE9E00AE24F8 /* Gabo118.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo118.mp3; path = ../../../../PickUpLines/Gabo1/Gabo118.mp3; sourceTree = "<group>"; };
+		8CB077901D0BCE9E00AE24F8 /* Gabo119.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo119.mp3; path = ../../../../PickUpLines/Gabo1/Gabo119.mp3; sourceTree = "<group>"; };
+		8CB077911D0BCE9E00AE24F8 /* Gabo1110.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1110.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1110.mp3; sourceTree = "<group>"; };
+		8CB077921D0BCE9E00AE24F8 /* Gabo1111.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1111.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1111.mp3; sourceTree = "<group>"; };
+		8CB077931D0BCE9E00AE24F8 /* Gabo1112.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1112.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1112.mp3; sourceTree = "<group>"; };
+		8CB077941D0BCE9E00AE24F8 /* Gabo1113.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1113.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1113.mp3; sourceTree = "<group>"; };
+		8CB077951D0BCE9E00AE24F8 /* Gabo1114.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1114.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1114.mp3; sourceTree = "<group>"; };
+		8CB077961D0BCE9E00AE24F8 /* Gabo1115.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1115.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1115.mp3; sourceTree = "<group>"; };
+		8CB077971D0BCE9E00AE24F8 /* Gabo1116.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1116.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1116.mp3; sourceTree = "<group>"; };
+		8CB077981D0BCE9E00AE24F8 /* Gabo1117.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1117.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1117.mp3; sourceTree = "<group>"; };
+		8CB077991D0BCE9E00AE24F8 /* Gabo1118.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1118.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1118.mp3; sourceTree = "<group>"; };
+		8CB0779A1D0BCE9E00AE24F8 /* Gabo1119.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1119.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1119.mp3; sourceTree = "<group>"; };
+		8CB0779B1D0BCE9E00AE24F8 /* Gabo1120.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1120.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1120.mp3; sourceTree = "<group>"; };
+		8CB0779C1D0BCE9E00AE24F8 /* Gabo1121.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1121.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1121.mp3; sourceTree = "<group>"; };
+		8CB0779D1D0BCE9E00AE24F8 /* Gabo1122.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Gabo1122.mp3; path = ../../../../PickUpLines/Gabo1/Gabo1122.mp3; sourceTree = "<group>"; };
+		D32D0B881C92606A0072CABC /* HelloUploader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloUploader.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D32D0B8C1C92606A0072CABC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D32D0B8E1C92606A0072CABC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D32D0B8F1C92606A0072CABC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D32D0B911C92606A0072CABC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D32D0B921C92606A0072CABC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D32D0B951C92606A0072CABC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D32D0B971C92606A0072CABC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D32D0B9A1C92606A0072CABC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D32D0B9C1C92606A0072CABC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32D0BA11C92606A0072CABC /* HelloUploaderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloUploaderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D32D0BA51C92606A0072CABC /* HelloUploaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloUploaderTests.m; sourceTree = "<group>"; };
+		D32D0BA71C92606A0072CABC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32D0BAC1C92606A0072CABC /* HelloUploaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloUploaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D32D0BB01C92606A0072CABC /* HelloUploaderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloUploaderUITests.m; sourceTree = "<group>"; };
+		D32D0BB21C92606A0072CABC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D32D0BBE1C9260870072CABC /* HelloUploader.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = HelloUploader.entitlements; sourceTree = "<group>"; };
+		D32D0BBF1C92608D0072CABC /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
+		D3358EE61C986D4E00F4A03E /* Uploader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Uploader.h; sourceTree = "<group>"; };
+		D3358EE71C986D4E00F4A03E /* Uploader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Uploader.m; sourceTree = "<group>"; };
+		D3F715481CBF11E4009CC642 /* UploadAudioViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UploadAudioViewController.h; sourceTree = "<group>"; };
+		D3F715491CBF11E4009CC642 /* UploadAudioViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UploadAudioViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D32D0B851C92606A0072CABC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32D0BC01C92608D0072CABC /* CloudKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0B9E1C92606A0072CABC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0BA91C92606A0072CABC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D32D0B7F1C92606A0072CABC = {
+			isa = PBXGroup;
+			children = (
+				D32D0BBF1C92608D0072CABC /* CloudKit.framework */,
+				D32D0B8A1C92606A0072CABC /* HelloUploader */,
+				D32D0BA41C92606A0072CABC /* HelloUploaderTests */,
+				D32D0BAF1C92606A0072CABC /* HelloUploaderUITests */,
+				D32D0B891C92606A0072CABC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D32D0B891C92606A0072CABC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0B881C92606A0072CABC /* HelloUploader.app */,
+				D32D0BA11C92606A0072CABC /* HelloUploaderTests.xctest */,
+				D32D0BAC1C92606A0072CABC /* HelloUploaderUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D32D0B8A1C92606A0072CABC /* HelloUploader */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0BBE1C9260870072CABC /* HelloUploader.entitlements */,
+				D32D0B8E1C92606A0072CABC /* AppDelegate.h */,
+				D32D0B8F1C92606A0072CABC /* AppDelegate.m */,
+				D38669971CC6E0BC00BC2226 /* Views */,
+				D38669981CC6E0CC00BC2226 /* Controllers */,
+				D32D0B941C92606A0072CABC /* Main.storyboard */,
+				D32D0B971C92606A0072CABC /* Assets.xcassets */,
+				D32D0B991C92606A0072CABC /* LaunchScreen.storyboard */,
+				D32D0B9C1C92606A0072CABC /* Info.plist */,
+				D36B02791CAC80F800098F7D /* Image Files */,
+				D372FA651C93A07600D22135 /* Audio Files */,
+				D32D0B8B1C92606A0072CABC /* Supporting Files */,
+			);
+			path = HelloUploader;
+			sourceTree = "<group>";
+		};
+		D32D0B8B1C92606A0072CABC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0B8C1C92606A0072CABC /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D32D0BA41C92606A0072CABC /* HelloUploaderTests */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0BA51C92606A0072CABC /* HelloUploaderTests.m */,
+				D32D0BA71C92606A0072CABC /* Info.plist */,
+			);
+			path = HelloUploaderTests;
+			sourceTree = "<group>";
+		};
+		D32D0BAF1C92606A0072CABC /* HelloUploaderUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0BB01C92606A0072CABC /* HelloUploaderUITests.m */,
+				D32D0BB21C92606A0072CABC /* Info.plist */,
+			);
+			path = HelloUploaderUITests;
+			sourceTree = "<group>";
+		};
+		D36B02791CAC80F800098F7D /* Image Files */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Image Files";
+			sourceTree = "<group>";
+		};
+		D372FA651C93A07600D22135 /* Audio Files */ = {
+			isa = PBXGroup;
+			children = (
+				8CB077881D0BCE9E00AE24F8 /* Gabo111.mp3 */,
+				8CB077891D0BCE9E00AE24F8 /* Gabo112.mp3 */,
+				8CB0778A1D0BCE9E00AE24F8 /* Gabo113.mp3 */,
+				8CB0778B1D0BCE9E00AE24F8 /* Gabo114.mp3 */,
+				8CB0778C1D0BCE9E00AE24F8 /* Gabo115.mp3 */,
+				8CB0778D1D0BCE9E00AE24F8 /* Gabo116.mp3 */,
+				8CB0778E1D0BCE9E00AE24F8 /* Gabo117.mp3 */,
+				8CB0778F1D0BCE9E00AE24F8 /* Gabo118.mp3 */,
+				8CB077901D0BCE9E00AE24F8 /* Gabo119.mp3 */,
+				8CB077911D0BCE9E00AE24F8 /* Gabo1110.mp3 */,
+				8CB077921D0BCE9E00AE24F8 /* Gabo1111.mp3 */,
+				8CB077931D0BCE9E00AE24F8 /* Gabo1112.mp3 */,
+				8CB077941D0BCE9E00AE24F8 /* Gabo1113.mp3 */,
+				8CB077951D0BCE9E00AE24F8 /* Gabo1114.mp3 */,
+				8CB077961D0BCE9E00AE24F8 /* Gabo1115.mp3 */,
+				8CB077971D0BCE9E00AE24F8 /* Gabo1116.mp3 */,
+				8CB077981D0BCE9E00AE24F8 /* Gabo1117.mp3 */,
+				8CB077991D0BCE9E00AE24F8 /* Gabo1118.mp3 */,
+				8CB0779A1D0BCE9E00AE24F8 /* Gabo1119.mp3 */,
+				8CB0779B1D0BCE9E00AE24F8 /* Gabo1120.mp3 */,
+				8CB0779C1D0BCE9E00AE24F8 /* Gabo1121.mp3 */,
+				8CB0779D1D0BCE9E00AE24F8 /* Gabo1122.mp3 */,
+			);
+			name = "Audio Files";
+			sourceTree = "<group>";
+		};
+		D38669971CC6E0BC00BC2226 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D32D0B911C92606A0072CABC /* ViewController.h */,
+				D32D0B921C92606A0072CABC /* ViewController.m */,
+				D3F715481CBF11E4009CC642 /* UploadAudioViewController.h */,
+				D3F715491CBF11E4009CC642 /* UploadAudioViewController.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		D38669981CC6E0CC00BC2226 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D3358EE61C986D4E00F4A03E /* Uploader.h */,
+				D3358EE71C986D4E00F4A03E /* Uploader.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D32D0B871C92606A0072CABC /* HelloUploader */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D32D0BB51C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploader" */;
+			buildPhases = (
+				D32D0B841C92606A0072CABC /* Sources */,
+				D32D0B851C92606A0072CABC /* Frameworks */,
+				D32D0B861C92606A0072CABC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HelloUploader;
+			productName = HelloUploader;
+			productReference = D32D0B881C92606A0072CABC /* HelloUploader.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D32D0BA01C92606A0072CABC /* HelloUploaderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D32D0BB81C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploaderTests" */;
+			buildPhases = (
+				D32D0B9D1C92606A0072CABC /* Sources */,
+				D32D0B9E1C92606A0072CABC /* Frameworks */,
+				D32D0B9F1C92606A0072CABC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D32D0BA31C92606A0072CABC /* PBXTargetDependency */,
+			);
+			name = HelloUploaderTests;
+			productName = HelloUploaderTests;
+			productReference = D32D0BA11C92606A0072CABC /* HelloUploaderTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D32D0BAB1C92606A0072CABC /* HelloUploaderUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D32D0BBB1C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploaderUITests" */;
+			buildPhases = (
+				D32D0BA81C92606A0072CABC /* Sources */,
+				D32D0BA91C92606A0072CABC /* Frameworks */,
+				D32D0BAA1C92606A0072CABC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D32D0BAE1C92606A0072CABC /* PBXTargetDependency */,
+			);
+			name = HelloUploaderUITests;
+			productName = HelloUploaderUITests;
+			productReference = D32D0BAC1C92606A0072CABC /* HelloUploaderUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D32D0B801C92606A0072CABC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Ricardo Nazario";
+				TargetAttributes = {
+					D32D0B871C92606A0072CABC = {
+						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = SGRW3864BW;
+						SystemCapabilities = {
+							com.apple.iCloud = {
+								enabled = 1;
+							};
+						};
+					};
+					D32D0BA01C92606A0072CABC = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = D32D0B871C92606A0072CABC;
+					};
+					D32D0BAB1C92606A0072CABC = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = D32D0B871C92606A0072CABC;
+					};
+				};
+			};
+			buildConfigurationList = D32D0B831C92606A0072CABC /* Build configuration list for PBXProject "HelloUploader" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D32D0B7F1C92606A0072CABC;
+			productRefGroup = D32D0B891C92606A0072CABC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D32D0B871C92606A0072CABC /* HelloUploader */,
+				D32D0BA01C92606A0072CABC /* HelloUploaderTests */,
+				D32D0BAB1C92606A0072CABC /* HelloUploaderUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D32D0B861C92606A0072CABC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CB077B21D0BCE9E00AE24F8 /* Gabo1121.mp3 in Resources */,
+				8CB077AD1D0BCE9E00AE24F8 /* Gabo1116.mp3 in Resources */,
+				8CB0779F1D0BCE9E00AE24F8 /* Gabo112.mp3 in Resources */,
+				8CB077A61D0BCE9E00AE24F8 /* Gabo119.mp3 in Resources */,
+				8CB077A21D0BCE9E00AE24F8 /* Gabo115.mp3 in Resources */,
+				8CB077AC1D0BCE9E00AE24F8 /* Gabo1115.mp3 in Resources */,
+				8CB077A71D0BCE9E00AE24F8 /* Gabo1110.mp3 in Resources */,
+				8CB077A01D0BCE9E00AE24F8 /* Gabo113.mp3 in Resources */,
+				D32D0B9B1C92606A0072CABC /* LaunchScreen.storyboard in Resources */,
+				8CB077A11D0BCE9E00AE24F8 /* Gabo114.mp3 in Resources */,
+				8CB077B01D0BCE9E00AE24F8 /* Gabo1119.mp3 in Resources */,
+				8CB077A41D0BCE9E00AE24F8 /* Gabo117.mp3 in Resources */,
+				8CB0779E1D0BCE9E00AE24F8 /* Gabo111.mp3 in Resources */,
+				8CB077AB1D0BCE9E00AE24F8 /* Gabo1114.mp3 in Resources */,
+				8CB077AA1D0BCE9E00AE24F8 /* Gabo1113.mp3 in Resources */,
+				D32D0B981C92606A0072CABC /* Assets.xcassets in Resources */,
+				8CB077A31D0BCE9E00AE24F8 /* Gabo116.mp3 in Resources */,
+				8CB077B11D0BCE9E00AE24F8 /* Gabo1120.mp3 in Resources */,
+				8CB077A81D0BCE9E00AE24F8 /* Gabo1111.mp3 in Resources */,
+				8CB077A91D0BCE9E00AE24F8 /* Gabo1112.mp3 in Resources */,
+				8CB077AE1D0BCE9E00AE24F8 /* Gabo1117.mp3 in Resources */,
+				8CB077AF1D0BCE9E00AE24F8 /* Gabo1118.mp3 in Resources */,
+				8CB077B31D0BCE9E00AE24F8 /* Gabo1122.mp3 in Resources */,
+				D32D0B961C92606A0072CABC /* Main.storyboard in Resources */,
+				8CB077A51D0BCE9E00AE24F8 /* Gabo118.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0B9F1C92606A0072CABC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0BAA1C92606A0072CABC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D32D0B841C92606A0072CABC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3F7154A1CBF11E4009CC642 /* UploadAudioViewController.m in Sources */,
+				D32D0B931C92606A0072CABC /* ViewController.m in Sources */,
+				D32D0B901C92606A0072CABC /* AppDelegate.m in Sources */,
+				D3358EE81C986D4E00F4A03E /* Uploader.m in Sources */,
+				D32D0B8D1C92606A0072CABC /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0B9D1C92606A0072CABC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32D0BA61C92606A0072CABC /* HelloUploaderTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D32D0BA81C92606A0072CABC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D32D0BB11C92606A0072CABC /* HelloUploaderUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D32D0BA31C92606A0072CABC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D32D0B871C92606A0072CABC /* HelloUploader */;
+			targetProxy = D32D0BA21C92606A0072CABC /* PBXContainerItemProxy */;
+		};
+		D32D0BAE1C92606A0072CABC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D32D0B871C92606A0072CABC /* HelloUploader */;
+			targetProxy = D32D0BAD1C92606A0072CABC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D32D0B941C92606A0072CABC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D32D0B951C92606A0072CABC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D32D0B991C92606A0072CABC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D32D0B9A1C92606A0072CABC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D32D0BB31C92606A0072CABC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D32D0BB41C92606A0072CABC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D32D0BB61C92606A0072CABC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HelloUploader/HelloUploader.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = HelloUploader/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoDev.HelloUploader;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		D32D0BB71C92606A0072CABC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = HelloUploader/HelloUploader.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = HelloUploader/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoDev.HelloUploader;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+		D32D0BB91C92606A0072CABC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = HelloUploaderTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoNazario.HelloUploaderTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloUploader.app/HelloUploader";
+			};
+			name = Debug;
+		};
+		D32D0BBA1C92606A0072CABC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = HelloUploaderTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoNazario.HelloUploaderTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HelloUploader.app/HelloUploader";
+			};
+			name = Release;
+		};
+		D32D0BBC1C92606A0072CABC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = HelloUploaderUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoNazario.HelloUploaderUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HelloUploader;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		D32D0BBD1C92606A0072CABC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = HelloUploaderUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.RicardoNazario.HelloUploaderUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HelloUploader;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D32D0B831C92606A0072CABC /* Build configuration list for PBXProject "HelloUploader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D0BB31C92606A0072CABC /* Debug */,
+				D32D0BB41C92606A0072CABC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D32D0BB51C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploader" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D0BB61C92606A0072CABC /* Debug */,
+				D32D0BB71C92606A0072CABC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D32D0BB81C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploaderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D0BB91C92606A0072CABC /* Debug */,
+				D32D0BBA1C92606A0072CABC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D32D0BBB1C92606A0072CABC /* Build configuration list for PBXNativeTarget "HelloUploaderUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D32D0BBC1C92606A0072CABC /* Debug */,
+				D32D0BBD1C92606A0072CABC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D32D0B801C92606A0072CABC /* Project object */;
+}
